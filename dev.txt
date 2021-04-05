@@ -1,1 +1,1 @@
-This is a text only in "dev" branch.
+master!
