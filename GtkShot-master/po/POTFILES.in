@@ -1,0 +1,5 @@
+# List of source files containing translatable strings.
+
+src/pen-editor.c
+src/toolbar.c
+src/shot.c

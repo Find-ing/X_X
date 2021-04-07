@@ -1,0 +1,142 @@
+# GtkShot Translation.
+# Copyright (C) 2012
+# This file is distributed under the same license as the GtkShot package.
+# dengjun <flytreeleft@126.com>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-25 22:01+0800\n"
+"PO-Revision-Date: 2012-08-25 22:01+0800\n"
+"Last-Translator: dengjun <flytreeleft@126.com>\n"
+"Language-Team: zh_TW <LL@li.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: TAIWAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: ../src/pen-editor.c:37
+msgid "white"
+msgstr "白色"
+
+#: ../src/pen-editor.c:38
+msgid "silver"
+msgstr "銀色"
+
+#: ../src/pen-editor.c:39
+msgid "red"
+msgstr "紅色"
+
+#: ../src/pen-editor.c:40
+msgid "yellow"
+msgstr "黃色"
+
+#: ../src/pen-editor.c:41
+msgid "lime"
+msgstr "黃綠色"
+
+#: ../src/pen-editor.c:42
+msgid "blue"
+msgstr "藍色"
+
+#: ../src/pen-editor.c:43
+msgid "fuchsia"
+msgstr "紫紅色"
+
+#: ../src/pen-editor.c:44
+msgid "cyan"
+msgstr "青綠色"
+
+#: ../src/pen-editor.c:45
+msgid "black"
+msgstr "黑色"
+
+#: ../src/pen-editor.c:46
+msgid "gray"
+msgstr "灰色"
+
+#: ../src/pen-editor.c:47
+msgid "maroon"
+msgstr "褐紅色"
+
+#: ../src/pen-editor.c:48
+msgid "olive"
+msgstr "黃褐色"
+
+#: ../src/pen-editor.c:49
+msgid "green"
+msgstr "綠色"
+
+#: ../src/pen-editor.c:50
+msgid "navy"
+msgstr "深藍色"
+
+#: ../src/pen-editor.c:51
+msgid "purple"
+msgstr "紫色"
+
+#: ../src/pen-editor.c:52
+msgid "teal"
+msgstr "藍綠色"
+
+#: ../src/pen-editor.c:189
+msgid "small"
+msgstr "細"
+
+#: ../src/pen-editor.c:200
+msgid "normal"
+msgstr "中"
+
+#: ../src/pen-editor.c:209
+msgid "big"
+msgstr "粗"
+
+#: ../src/shot.c:324
+msgid "no valid selection to save"
+msgstr "未有可保存的選區截圖"
+
+#: ../src/shot.c:851
+msgid ""
+"left drag to select the area\n"
+"which will be captured"
+msgstr "左鍵拖動選擇\n所需截取區域"
+
+#: ../src/toolbar.c:35
+msgid "draw rectangle"
+msgstr "繪製矩形"
+
+#: ../src/toolbar.c:36
+msgid "draw ellipse"
+msgstr "繪製橢圓"
+
+#: ../src/toolbar.c:37
+msgid "draw arrow"
+msgstr "繪製箭頭"
+
+#: ../src/toolbar.c:38
+msgid "draw line"
+msgstr "繪製綫條"
+
+#: ../src/toolbar.c:39
+msgid "draw text"
+msgstr "錄入文字"
+
+#: ../src/toolbar.c:195
+msgid "undo"
+msgstr "撤銷(Ctrl+Z)"
+
+#: ../src/toolbar.c:200
+msgid "save to file"
+msgstr "存儲檔案(Ctrl+S)"
+
+#: ../src/toolbar.c:206
+msgid "exit"
+msgstr "離開(Ctrl+Q)"
+
+#: ../src/toolbar.c:211
+msgid "finish"
+msgstr "完成(Ctrl+O)"
